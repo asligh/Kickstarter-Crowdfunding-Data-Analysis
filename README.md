@@ -28,7 +28,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
-  ![Category Stats](Images/CategoryStats.png)
+  ![backers01](https://user-images.githubusercontent.com/58826231/135282496-b7ef2c15-51c2-4b07-ac9b-a3a0f2f42ffd.png)
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
