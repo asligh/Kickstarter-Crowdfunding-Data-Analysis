@@ -14,7 +14,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Instructions
 
-![DateConversion](https://user-images.githubusercontent.com/58826231/135282494-ff00dc3c-20e6-4943-833b-d04272dddffd.png)
+![DateConversion](https://user-images.githubusercontent.com/58826231/135282494-ff00dc3c-20e6-4943-833b-d04272dddffd.PNG)
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
@@ -28,13 +28,13 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   * Create two new columns, one called `Category` at Q and another called `Sub-Category` at R, which use formulas to split the `Category and Sub-Category` column into two parts.
 
-  ![backers01](https://user-images.githubusercontent.com/58826231/135282496-b7ef2c15-51c2-4b07-ac9b-a3a0f2f42ffd.png)
+  ![backers01](https://user-images.githubusercontent.com/58826231/135282496-b7ef2c15-51c2-4b07-ac9b-a3a0f2f42ffd.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per **category**.
 
   * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-![PercentageFundedFormat](https://user-images.githubusercontent.com/58826231/135282487-2cf58f26-3d6c-4d60-bd5a-fad4a139eae4.png)
+![PercentageFundedFormat](https://user-images.githubusercontent.com/58826231/135282487-2cf58f26-3d6c-4d60-bd5a-fad4a139eae4.PNG)
 
   * Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
