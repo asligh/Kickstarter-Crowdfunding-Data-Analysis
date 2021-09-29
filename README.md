@@ -14,7 +14,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 ## Instructions
 
-![DateConversion](https://user-images.githubusercontent.com/58826231/135282494-ff00dc3c-20e6-4943-833b-d04272dddffd.PNG)
+![DateConversion](https://user-images.githubusercontent.com/58826231/135282494-ff00dc3c-20e6-4943-833b-d04272dddffd.png)
 
 Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
 
