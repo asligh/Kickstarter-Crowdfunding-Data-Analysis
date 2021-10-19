@@ -6,6 +6,8 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. This project seeks to organize and analyze a database extract of 4,000 past projects in order to uncover market trends.
 
+## Illustrative Data Sample
+
 ![Kickstart](Images/DataSample.png)
 
 ## Conclusion 1
