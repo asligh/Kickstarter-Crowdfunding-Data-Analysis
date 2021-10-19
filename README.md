@@ -10,7 +10,7 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 
 After expanding pivot chart data to capture additional points, music has the highest Kickstarter campaign success rate at 77% followed by theater at 60% and film and video at 58% and they also have the lowest cancellation rate at 3%, 3%, and 8% respectively. The projects also have the lowest failure rates at 17%, 35% and 35% respectively.  At first glance, one may choose to make project investment decisions based on historical project success rate but the decision to do so really needs to be based on multiple factors. With this in mind, it’s important to look for other indicators of project success rate – those that point to a correlation, albeit maybe not obvious on first glance. Of interest is the “staff pick” column; does any correlation exist between staff pick and project success rate?  After performing analysis in relation to staff picks as a percentage of all staff picks across a category, a clear trend is observed. Staff picks are an excellent predictor of Kickstarter campaign success as indicated by the “% of total staff picks” column. For the theater, technology, publishing, music, games, food, and film/and video categories, simply following staff picks would have resulted in excellent results. However, it should be noted that past performance is not predictor of future results.
 
-![Kickstart](Images/PivotChart1.jpeg)
+![Kickstart](Images/Pivot1.png)
 
 ## Conclusion 2
 
