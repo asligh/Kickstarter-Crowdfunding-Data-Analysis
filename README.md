@@ -8,7 +8,7 @@ Ashley Sligh
 
 ## Programming Language/Tools Applied
 
-VBA, Pivot Table Visualizations
+VBA, Pivot Table visualizations and charts
 
 ## Background
 
