@@ -15,9 +15,14 @@ After expanding pivot chart data to capture additional points, music has the hig
 ## Conclusion 2
 
 After creating a pivot chart to analyze the Kickstarter campaigns across sub-category, one can quickly conclude the “plays” sub-category has the highest number of funding opportunities, capturing nearly 26% all campaign sub-categories. Of interest was the 100% rate in sub-categories such as documentary, hardware, metal, non-fiction, and rock however with overall campaign numbers much lower than the “plays” sub-category.  
+
+![Kickstart](Images/Pivot2.png)
+
 ## Conclusion 3
 
 With regards to Kickstarter campaign count and the seasonality effect, a clear trend emerges.  After observing the below pivot chart, the number of successful, failed, and cancelled projects drop off significantly in the 4th quarter. The number of successful projects peak in April.  Such insight is relevant as it provides insight into the availability and timing of investments.
+
+![Kickstart](Images/Pivot3.png)
 
 ## Dataset Limitations
 
