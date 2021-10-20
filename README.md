@@ -1,6 +1,6 @@
 ![Kickstart](Images/KickStarterLogo.png)
 
-# Kickstarter Campaign Analylsis 2008 - 2017
+# Kickstarter Crowdfunding Campaign Analysis 2008 - 2017
 
 ## Author
 
